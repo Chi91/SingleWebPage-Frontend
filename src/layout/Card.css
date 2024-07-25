@@ -1,0 +1,8 @@
+.card{
+    display: flex;
+    flex-flow: row wrap;
+    width: 18em;
+    max-width: 18em;
+    margin-left: 30%;
+    margin-right: 30%;
+}
